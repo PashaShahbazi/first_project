@@ -5,3 +5,4 @@ for i in range(1,10):
   if a**2 == i**2:
      break
 print('finish')
+print('thank')
