@@ -6,3 +6,5 @@ for i in range(1,10):
      break
 print('finish')
 print('thank')
+
+l = [i for i in range(10)]
